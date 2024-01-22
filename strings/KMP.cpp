@@ -1,3 +1,5 @@
+// O(N + M)
+
 #include<iostream>
 #include<vector>
 
